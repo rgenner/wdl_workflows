@@ -1,0 +1,9 @@
+{
+  "run_minimap2_for_bams.unmapped_bam_bai": "/Users/gennerrm/cromwell/minimap2_docs/ecoli_p6_25x_canu.fa.fai",
+  "run_minimap2_for_bams.unmapped_bam": "/Users/gennerrm/cromwell/minimap2_docs/ecoli_p6_25x_canu.fa",
+  "run_minimap2_for_bams.sample_name": "test",
+  "run_minimap2_for_bams.mapMode": "map-ont",
+  "run_minimap2_for_bams.ref": "/Users/gennerrm/cromwell/minimap2_docs/ecoli_ref.fa",
+  "run_minimap2_for_bams.ref_index": "/Users/gennerrm/cromwell/minimap2_docs/ecoli_ref.fa.fai",
+  "run_minimap2_for_bams.ref_name": "test_ref"
+}

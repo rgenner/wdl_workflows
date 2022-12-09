@@ -1,0 +1,7 @@
+{
+  "run_modbam_calcmeth.BED_FILE": "/Users/gennerrm/cromwell/Hs_EPDnew_006_hg38.bed",
+  "run_modbam_calcmeth.BED_FILE_NAME": "Hs",
+  "run_modbam_calcmeth.HAPLOTAGGEDBAM": "/Users/gennerrm/cromwell/modbamtools_tutorial_files/gm12878_ul_sup_megalodon_HP_chr20.bam",
+  "run_modbam_calcmeth.HAPLOTAGGEDBAMBAI": "/Users/gennerrm/cromwell/modbamtools_tutorial_files/gm12878_ul_sup_megalodon_HP_chr20.bam.bai",
+  "run_modbam_calcmeth.SAMPLE_NAME": "calcmeth_test"
+}

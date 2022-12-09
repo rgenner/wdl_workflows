@@ -1,0 +1,5 @@
+{
+  "run_bam_to_fastq.unmapped_bam": "gs://lrbucket/KOLF_genomes/PAH16815.bam",
+  "run_bam_to_fastq.unmapped_bam_bai": "gs://lrbucket/KOLF_genomes/PAH16815.bam.bai",
+  "run_bam_to_fastq.sample_name": "PAH16815"
+}
